@@ -1,0 +1,63 @@
+[{
+        "Team": "Dallas Mavericks",
+        "player": "Luka Doncic",
+        "image": "Doncic",
+        "number": "77",
+        "Pts": "33.3",
+        "FG": "50.5",
+        "Reb": "8.8",
+        "Ast": "8.1",
+        "TeamRecord": "31 - 29"
+    },
+    {   "Team": "Denver Nuggets",
+        "player": "Nikola Jokic",
+        "image": "Jokic",
+        "number": "15",
+        "Pts": "24.7",
+        "FG": "63.2",
+        "Reb": "11.5",
+        "Ast": "10.1",
+        "TeamRecord": "41 - 18"
+        
+    },
+
+    {
+        "Team": "Milwaukee Bucks",
+        "player": "Giannis Antetokounmpo",
+        "image": "Antetokounmpo",
+        "number": "34",
+        "Pts": "31.8",
+        "FG": "53.8",
+        "Reb": "12.2",
+        "Ast": "5.4",
+        "TeamRecord": "41 - 17"
+
+    },
+
+    {
+
+        "Team": "Philadelphia 76ers",
+        "player": " Joel Embiid",
+        "image": "Embiid",
+        "number": "21",
+        "Pts": "24.7",
+        "FG": "53.7",
+        "Reb": "10.2",
+        "Ast": "4.1",
+        "TeamRecord": "38 - 19"
+    },
+    {
+
+        "Team": "Boston Celtics",
+        "player": "Jayson Tatum",
+        "image": "Tatum",
+        "number": "0",
+        "Pts": "30.6",
+        "FG": "46.4",
+        "Reb": "8.6",
+        "Ast": "4.5",
+        "TeamRecord": "42 - 17"
+        
+       
+    }
+]
