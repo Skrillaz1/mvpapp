@@ -1,0 +1,52 @@
+
+
+
+[{
+    "Team": "New York Knicks",
+        "player": "Jalen Brunson",
+        "image": "Brunson",
+        "number": "13",
+        "Pts": "23.9",
+        "FG": "48.7%",
+        "Reb": "3.6",
+        "Ast": "6.2",
+        "TeamRecord": "39-27"
+        },
+    {
+        "Team": "Indiana Pacers",
+            "player": "Tyrese Haliburton",
+            "image": "Tyrese",
+            "number": "0",
+            "Pts": "20.2",
+            "FG": "48.6",
+            "Reb": "3.7",
+            "Ast": "10.2",
+            "TeamRecord": "29-36"
+        
+        },
+    
+    
+    {
+        "Team": "Golden State Warriors",
+        "player": "Jordan Poole",
+        "image": "Poole",
+        "number": "3",
+        "Pts": "20.8",
+        "FG": "42.8",
+        "Reb": "2.8",
+        "Ast": "4.6",
+        "TeamRecord": "34-31"},
+    
+    
+    { "Team": "Minnesota Timberwolves",
+        "player": "Anthony Edwards",
+        "image": "Edwards",
+        "number": "1",
+        "Pts": "24.6",
+        "FG": "45.8",
+        "Reb": "5.8",
+        "Ast": "4.5",
+        "TeamRecord": "34-32"
+   
+        
+    }]

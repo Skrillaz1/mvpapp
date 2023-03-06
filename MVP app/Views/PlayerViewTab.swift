@@ -21,18 +21,30 @@ struct PlayerViewTab: View {
                         Image(systemName: "star.fill")
                         Text("Featured")
                     }
-                  
-                            
-                        }
+                    
+                    
+                }
             
             
             PlayersListView()
-                  .tabItem {
-                      Image(systemName: "star.fill")
-                      Text("MVP")
-                            }
-                        }
+                .tabItem {
+                    Image(systemName: "star.fill")
+                    Text("MVP")
                 }
+            
+            
+            MostImproveView()
+                .tabItem {
+                    Image(systemName: "star.fill")
+                    Text("Most Improved")
+                    
+                }
+                    }
+            
+            
+        }
+        
+      
             
            
         }
