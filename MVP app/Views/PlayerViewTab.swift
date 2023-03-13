@@ -33,12 +33,7 @@ struct PlayerViewTab: View {
                 }
             
             
-            MostImproveView()
-                .tabItem {
-                    Image(systemName: "star.fill")
-                    Text("Most Improved")
-                    
-                }
+           
                     }
             
             
