@@ -32,7 +32,11 @@ struct PlayerViewTab: View {
                     Text("MVP")
                 }
             
-            
+            MIPListView()
+                .tabItem {
+                    Image(systemName: "star.fill")
+                    Text("MIP")
+                }
             
             
            

@@ -20,10 +20,15 @@ struct PlayersDetailView: View {
                 .font(.largeTitle)
                 .fontWeight(.bold)
             HStack{
+                Spacer()
                 Text("No." + players.number)
+                    .font(.title)
+                Spacer()
                 Text("Record:" + " " + players.TeamRecord)
-                
-            }.fontWeight(.bold)
+                    .font(.title)
+                Spacer()
+    
+            }.fontWeight(.heavy)
             .padding(1)
             
             ScrollView{
@@ -31,18 +36,30 @@ struct PlayersDetailView: View {
                 Image(players.image)
                     .resizable()
                     .scaledToFit()
+                   
+                
                 HStack{
                     
                     Text("PPG:" + " " + players.Pts)
-                        .fontWeight(.bold)
+                    Spacer()
                     Text("APG:" + " " + players.Ast)
+                    Spacer()
                     Text("RPG:" + " " + players.Reb)
+                    Spacer()
                     Text("FG%:" + " " + players.FG)
                     
-                }.fontWeight(.bold)
+                }.font(.title)
+                .fontWeight(.bold)
                 .padding()
+                
+                
+                Image(players.Team)
+                    .resizable()
+                    .scaledToFit()
+                    .frame(width: 100, height: 100)
+                    .padding(15)
                     
-                    
+                
             }
             
         }

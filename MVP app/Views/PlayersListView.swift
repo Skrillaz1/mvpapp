@@ -32,8 +32,7 @@ struct PlayersListView: View {
                         Text(r.player)
                     
                         
-                    
-                  }
+                    }
                 })
                    
             }.navigationBarTitle("MVP CANDIDATES")

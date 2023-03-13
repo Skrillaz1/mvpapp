@@ -2,7 +2,7 @@
 
 
 [{
-    "Team": "New York Knicks",
+    "Team": "Knicks",
         "player": "Jalen Brunson",
         "image": "Brunson",
         "number": "13",
@@ -13,7 +13,7 @@
         "TeamRecord": "39-27"
         },
     {
-        "Team": "Indiana Pacers",
+        "Team": "Pacers",
             "player": "Tyrese Haliburton",
             "image": "Tyrese",
             "number": "0",
@@ -27,7 +27,7 @@
     
     
     {
-        "Team": "Golden State Warriors",
+        "Team": "Warriors",
         "player": "Jordan Poole",
         "image": "Poole",
         "number": "3",
@@ -38,7 +38,7 @@
         "TeamRecord": "34-31"},
     
     
-    { "Team": "Minnesota Timberwolves",
+    { "Team": "Timberwolves",
         "player": "Anthony Edwards",
         "image": "Edwards",
         "number": "1",

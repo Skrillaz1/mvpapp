@@ -33,7 +33,7 @@ struct MIPListView: View {
                   }
                 })
                    
-            }.navigationBarTitle("MVP CANDIDATES")
+            }.navigationBarTitle("MIP Candidates")
                 
         }
         

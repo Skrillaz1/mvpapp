@@ -1,5 +1,5 @@
 [{
-        "Team": "Dallas Mavericks",
+        "Team": "Mavericks",
         "player": "Luka Doncic",
         "image": "Doncic",
         "number": "77",
@@ -9,7 +9,7 @@
         "Ast": "8.1",
         "TeamRecord": "31 - 29"
     },
-    {   "Team": "Denver Nuggets",
+    {   "Team": "Nuggets",
         "player": "Nikola Jokic",
         "image": "Jokic",
         "number": "15",
@@ -22,7 +22,7 @@
     },
 
     {
-        "Team": "Milwaukee Bucks",
+        "Team": "Bucks",
         "player": "Giannis Antetokounmpo",
         "image": "Antetokounmpo",
         "number": "34",
@@ -36,7 +36,7 @@
 
     {
 
-        "Team": "Philadelphia 76ers",
+        "Team": "76ers",
         "player": " Joel Embiid",
         "image": "Embiid",
         "number": "21",
@@ -48,7 +48,7 @@
     },
     {
 
-        "Team": "Boston Celtics",
+        "Team": "Celtics",
         "player": "Jayson Tatum",
         "image": "Tatum",
         "number": "0",
