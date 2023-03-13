@@ -15,8 +15,8 @@ class PlayerModel: ObservableObject {
     
     init() {
         
-               self.players = DataService.getLocalData()
-        
+        self.players = DataService.getLocalData()
+    
         //Set the recipes property
         
         
@@ -24,4 +24,18 @@ class PlayerModel: ObservableObject {
     
 }
  
+class MIPPlayerModel: ObservableObject {
+    
+    @Published var players = [Players]()
+    
+    init() {
+        
+        self.players = MIPDataService.getLocalData()
+    
+        //Set the recipes property
+        
+        
+    }
+    
+}
 
